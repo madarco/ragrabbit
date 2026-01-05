@@ -25,7 +25,7 @@
     "@repo/logger": "workspace:*",
     "@repo/typescript-config": "workspace:*",
     "@vercel/node": "^5.1.12",
-    "next": "15.2.3",
+    "next": "15.2.8",
     "react-hook-form": "^7.54.2"
   },
   "peerDependencies": {
