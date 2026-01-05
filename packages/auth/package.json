@@ -8,7 +8,7 @@
   "devDependencies": {
     "@repo/db": "workspace:*",
     "@repo/logger": "workspace:*",
-    "next": "15.2.3"
+    "next": "15.2.8"
   },
   "dependencies": {
     "@auth/drizzle-adapter": "^1.7.4",

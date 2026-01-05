@@ -21,7 +21,7 @@
     "@repo/logger": "workspace:*",
     "@repo/typescript-config": "workspace:*",
     "@t3-oss/env-nextjs": "^0.11.1",
-    "next": "15.1.4",
+    "next": "15.1.11",
     "next-safe-action": "^7.10.2",
     "pino": "^9.4.0",
     "pino-pretty": "^11.2.2",
